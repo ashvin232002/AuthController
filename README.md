@@ -2,6 +2,9 @@
 
 -->so basically This is AuthController where a user's SignUp and Login Fuctionality would be implemented.<br/>
 -->Here  all The fuctionality would be included ---> <br/>
+
+<br/>
+<br/>
 1.password encryption<br/>
 2.Implemented jwt (jsonwebtoken)<br/>
 3.Implemented Cookies.<br/>
@@ -13,6 +16,7 @@
 3.Controller folder --> Basically all the fuctionality for the Login & signUp <br/>
 4.Router folder --> To create the different Routes <br/>
 5.Middlewares  -->login through the jwt and cookies <br/>
+6.create  a .env file to define PORT , MONGODB_URL , JWT_SECRET <br/>
 
 
 -->how to run<br/>
